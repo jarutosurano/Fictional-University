@@ -16,3 +16,4 @@
 [21-Oct-2023 15:37:30 UTC] PHP Warning:  Uninitialized string offset 1 in C:\Users\Jayr Sullano\Local Sites\fictional-university\app\public\wp-content\themes\JStheme\index.php on line 8
 [21-Oct-2023 15:37:30 UTC] PHP Warning:  Uninitialized string offset 2 in C:\Users\Jayr Sullano\Local Sites\fictional-university\app\public\wp-content\themes\JStheme\index.php on line 8
 [21-Oct-2023 15:37:30 UTC] PHP Warning:  Uninitialized string offset 3 in C:\Users\Jayr Sullano\Local Sites\fictional-university\app\public\wp-content\themes\JStheme\index.php on line 8
+[23-Oct-2023 15:56:04 UTC] PHP Parse error:  syntax error, unexpected token "/" in C:\Users\Jayr Sullano\Local Sites\fictional-university\app\public\wp-content\themes\JStheme\header.php on line 19
