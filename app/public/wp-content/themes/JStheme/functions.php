@@ -16,3 +16,11 @@ add_action('wp_enqueue_scripts', 'university_files');
 # This code registers an action hook to enqueue scripts and styles for a WordPress theme.
 # The 'add_action' function is used to attach the 'university_files' function to the 'wp_enqueue_scripts' action hook.
 # The 'wp_enqueue_scripts' action hook is commonly employed to load CSS and JavaScript files, thereby allowing you to customize your theme's appearance and functionality.
+
+
+function university_features()
+{
+    add_theme_support('title-tag');
+}
+
+add_action('after_setup_theme', 'university_features');
